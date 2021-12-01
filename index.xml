@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Believerd</title>
+    <link>https://believerd.github.io/</link>
+    <description>Recent content in Home on Believerd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Believerd</copyright>
+    <lastBuildDate>Tue, 30 Nov 2021 21:10:05 +0800</lastBuildDate><atom:link href="https://believerd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://believerd.github.io/pages/about/</link>
+      <pubDate>Tue, 30 Nov 2021 21:10:05 +0800</pubDate>
+      
+      <guid>https://believerd.github.io/pages/about/</guid>
+      <description>Hi there! Welcome to my escondido! 🖖
+ I am a freshman undergraduate student studying Computer Science. I often refer myself a &amp;ldquo;13-yaer-old&amp;rdquo; boy that never grows up. My interests are very narrow, but I still like to try new things.
+In my free time, I like:
+ Reading books(mostly about philosophy). 📚 Watching TV series and movies. 🎬 Listening to music. 🎵 Playing video games. 🎮 Messing around with all kinds of stuffs.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://believerd.github.io/posts/helloworld/</link>
+      <pubDate>Tue, 30 Nov 2021 19:11:13 +0800</pubDate>
+      
+      <guid>https://believerd.github.io/posts/helloworld/</guid>
+      <description>echo &amp;#34;Hello World!&amp;#34; This website is built with hugo using Alex Chi&amp;rsquo;s modification of hugo-ink theme.</description>
+    </item>
+    
+  </channel>
+</rss>
